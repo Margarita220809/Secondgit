@@ -1,0 +1,10 @@
+a) Add smth to the cart
+b) Increase the quantity of product 
+c) Decrease the quantuty of product
+d) Delete the product from the cart
+e) Login to ur rozetka account
+f) Continue buying
+g) Buy the product
+h) Close the cart
+i) Buy a complect
+j) Add a product from category Together cheeper
